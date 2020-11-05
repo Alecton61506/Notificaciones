@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name= "mensaje01">Message (Toast) par d\'efaut :D</string>
+    <string name= "boton01">TOAST 01</string>
+    <string name= "mensajeP">Mensaje con diseñou Nuestrog</string>
+    <string name= "BarraN">Barre de notification</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+    <string name= "mensaje01">Mensaje (Toast) por defecto :D</string>
+    <string name= "boton01">TOAST 01</string>
+    <string name= "mensajeP">Mensaje con diseño Nuestro</string>
+    <string name= "BarraN">Barra de Notificaciones</string>
+</resources>
